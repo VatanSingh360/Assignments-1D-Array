@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java_By_PW_paid.iml" filepath="$PROJECT_DIR$/java_By_PW_paid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaNS.iml" filepath="$PROJECT_DIR$/javaNS.iml" />
     </modules>
   </component>
 </project>
