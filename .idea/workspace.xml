@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Bit_powerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PW_java_FC/PW_java_FC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PW_java_FC/src/Data_type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PW_java_FC/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PW_java_FC/src/char_value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/FindingPower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PW_java_FC/src/taking_Input/string_test_cases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PW_java_FC/src/taking_Input/test_cases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PW_java_FC/src/taking_Input/total_marks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Check_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Check_Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Count_pass_SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Count_pass_SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/DecToBin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/DecToBin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Decending_Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Decending_Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Decending_selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Decending_selection_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/InseartionSort_Descending.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/InseartionSort_Descending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Last_Occourence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Last_Occourence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Perfect_Squre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Perfect_Squre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Req_Pass_bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/Req_Pass_bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/bit_Odd_Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Asg2_SearchingAndSorting/bit_Odd_Even.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bubble_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bubble_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Find_First_Occourence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Find_First_Occourence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prefix_Sum_2D_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prefix_Sum_2D_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Selection_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Selection_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Squre_Root.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Squre_Root.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
