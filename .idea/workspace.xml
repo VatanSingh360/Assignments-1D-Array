@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PW_java_FC/src/taking_Input/string_test_cases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PW_java_FC/src/taking_Input/test_cases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PW_java_FC/src/taking_Input/total_marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Recursion_asgn/Alternate_Sign_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Recursion_asgn/Sum_Of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Recursion_asgn/max_in.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Recursion_asgn/sum_of_n.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
