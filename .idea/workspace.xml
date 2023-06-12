@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignments_of_PW/src/DivideAndConquer_Asgn/Kth_largest_Asgn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/Count_no_of_inversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/Merge_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FiboPrac.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/DivideAndConquer_Asgn/Kth_largest_Asgn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/DivideAndConquer_Asgn/Kth_largest_Asgn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
