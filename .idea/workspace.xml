@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Queue_And_Stack/Queue_Using_Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/DivideAndConquer_Asgn/Kth_largest_Asgn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/DivideAndConquer_Asgn/Kth_largest_Asgn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\bhara\IdeaProjects\java_By_PW_paid\Assignments_of_PW" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kth_largest_Asgn">
+  <component name="RunManager" selected="Application.Queue_Using_Stack">
     <configuration name="Count_no_of_inversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DivideAndConquer.Count_no_of_inversions" />
       <module name="javaNS" />
@@ -79,18 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSort" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DivideAndConquer.Merge_Sort" />
       <module name="javaNS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DivideAndConquer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue_Using_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue_And_Stack.Queue_Using_Stack" />
+      <module name="javaNS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue_And_Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Queue_Using_Stack" />
         <item itemvalue="Application.Kth_largest_Asgn" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Count_no_of_inversions" />
         <item itemvalue="Application.Merge_Sort" />
-        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
   </component>
