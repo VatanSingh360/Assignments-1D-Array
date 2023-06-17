@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Queue_And_Stack/Queue_Using_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Display_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Traverse_PreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy_Algo_Ques/Fractional_Knapsack_GA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy_Algo_Ques/Minimum_Sum_GA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,16 +58,17 @@
       <recent name="C:\Users\bhara\IdeaProjects\java_By_PW_paid\Assignments_of_PW" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Queue_Using_Stack">
-    <configuration name="Count_no_of_inversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivideAndConquer.Count_no_of_inversions" />
-      <module name="javaNS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DivideAndConquer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Traverse_PreOrder">
+    <configuration name="Display_Tree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Display_Tree" />
+      <module name="Tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Display_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Display_Tree" />
+      <module name="Tree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,19 +79,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DivideAndConquer_Asgn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivideAndConquer.Merge_Sort" />
-      <module name="javaNS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DivideAndConquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivideAndConquer.QuickSort" />
-      <module name="javaNS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DivideAndConquer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Traverse_PreOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Traverse_PreOrder" />
+      <module name="Tree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Traverse_PreOrder" />
+        <item itemvalue="Application.Display_Tree (1)" />
+        <item itemvalue="Application.Display_Tree" />
         <item itemvalue="Application.Queue_Using_Stack" />
         <item itemvalue="Application.Kth_largest_Asgn" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.Count_no_of_inversions" />
-        <item itemvalue="Application.Merge_Sort" />
       </list>
     </recent_temporary>
   </component>
