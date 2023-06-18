@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PPT_Asgn/src/Ques_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPT_Asgn/src/Ques_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,7 @@
       <recent name="C:\Users\bhara\IdeaProjects\java_By_PW_paid\Assignments_of_PW" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ques_1">
+  <component name="RunManager" selected="Application.Ques_7">
     <configuration name="Ques_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ques_1" />
       <module name="PPT_Asgn" />
@@ -63,13 +59,6 @@
     </configuration>
     <configuration name="Ques_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ques_2" />
-      <module name="PPT_Asgn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ques_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ques_3" />
       <module name="PPT_Asgn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,13 +78,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ques_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ques_7" />
+      <module name="PPT_Asgn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ques_7" />
         <item itemvalue="Application.Ques_1" />
         <item itemvalue="Application.Ques_6" />
         <item itemvalue="Application.Ques_2" />
         <item itemvalue="Application.Ques_5" />
-        <item itemvalue="Application.Ques_3" />
       </list>
     </recent_temporary>
   </component>
