@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PPT_Asgn/PPT_Asgn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPT_Asgn/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPT_Asgn/src/Ques_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPT_Asgn/src/Ques_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPT_Asgn/src/Ques_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/Search_Ele_In_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PPT_Asgn/src/Ques_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PPT_Asgn/src/Ques_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +53,14 @@
       <recent name="C:\Users\bhara\IdeaProjects\java_By_PW_paid\Assignments_of_PW" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ques_2">
+  <component name="RunManager" selected="Application.Ques_1">
+    <configuration name="Ques_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ques_1" />
+      <module name="PPT_Asgn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ques_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ques_2" />
       <module name="PPT_Asgn" />
@@ -80,27 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_Ele_In_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_Ele_In_Tree" />
-      <module name="Tree" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Traverse_PreOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Traverse_PreOrder" />
-      <module name="Tree" />
+    <configuration name="Ques_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ques_6" />
+      <module name="PPT_Asgn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ques_1" />
+        <item itemvalue="Application.Ques_6" />
         <item itemvalue="Application.Ques_2" />
         <item itemvalue="Application.Ques_5" />
         <item itemvalue="Application.Ques_3" />
-        <item itemvalue="Application.Search_Ele_In_Tree" />
-        <item itemvalue="Application.Traverse_PreOrder" />
       </list>
     </recent_temporary>
   </component>
