@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="" />
+    <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Tree_Asgn/Ques_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PPT_Asgn/src/Ques_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +53,14 @@
       <recent name="C:\Users\bhara\IdeaProjects\java_By_PW_paid\Assignments_of_PW" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ques_7">
+  <component name="RunManager" selected="Application.Ques_4">
+    <configuration name="Parse_Int_Prac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Parse_Int_Prac" />
+      <module name="javaNS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ques_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ques_1" />
       <module name="PPT_Asgn" />
@@ -57,22 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ques_2" />
-      <module name="PPT_Asgn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ques_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ques_5" />
-      <module name="PPT_Asgn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ques_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ques_6" />
+    <configuration name="Ques_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ques_4" />
       <module name="PPT_Asgn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,13 +82,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tree_Asgn.Ques_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree_Asgn.Ques_5" />
+      <module name="Assignments_of_PW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree_Asgn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ques_4" />
+        <item itemvalue="Application.Parse_Int_Prac" />
+        <item itemvalue="Application.Tree_Asgn.Ques_5" />
         <item itemvalue="Application.Ques_7" />
         <item itemvalue="Application.Ques_1" />
-        <item itemvalue="Application.Ques_6" />
-        <item itemvalue="Application.Ques_2" />
-        <item itemvalue="Application.Ques_5" />
       </list>
     </recent_temporary>
   </component>
