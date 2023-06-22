@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Ques_4 {
     public static void main(String[] args) {
-        int [] arr ={1,2,3};
+        int [] arr ={9};
         Plus_One(arr);
         System.out.println(Arrays.toString(arr));
     }
@@ -17,7 +17,7 @@ public class Ques_4 {
             }
             arr[i]=0;
         }
-        res[1]=1;
+        res[0]=1;
         return res;
     }
 }
