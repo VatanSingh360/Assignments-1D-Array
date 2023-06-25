@@ -36,20 +36,19 @@ public class Ques_3 {
 
     private static List<Integer> LevelOrder(Node root) {
         List <Integer> ans = new ArrayList<>();
-        Stack <Integer> st = new Stack<>();
+       // Stack <Integer> st = new Stack<>();
         if (root==null) return ans;
-        Queue <Node> q = new LinkedList<>();
-        q.add(root);
-        while (!q.isEmpty()){
-            Node n= q.remove();
-           // ans.add(n.val);
-            st.push(n.val);
-            if (n.left!=null) q.add(n.left);
-            if (n.right!=null) q.add(n.right);
+        Stack <Node> st = new Stack<>();
+        //Queue <Node> q = new LinkedList<>();
+        st.push(root);
+        //q.add(root);
+        while (!st.isEmpty()){
+            Node n= st.pop();
+             ans.add(n.val);
+            //st.push(n.val);
+            if (n.left!=null) st.push(n.left);
+            if (n.right!=null) st.push(n.right);
         }
-
-        while (!st.isEmpty())
-            ans.add(st.pop());
         return ans;
     }
 
