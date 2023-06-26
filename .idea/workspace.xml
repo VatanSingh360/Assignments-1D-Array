@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7744e6c0-d58b-4ac3-be08-60a024ed940a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Mock_Test/Move_Zeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Mock_Test/Unique_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Least_Common_Ancester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/Max_Path_Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments_of_PW/src/Tree_Asgn/Ques_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments_of_PW/src/Tree_Asgn/Ques_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +53,16 @@
       <recent name="C:\Users\bhara\IdeaProjects\java_By_PW_paid\Assignments_of_PW" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unique_Char">
-    <configuration name="Level_Order_Traverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level_Order_Traverse" />
+  <component name="RunManager" selected="Application.Least_Common_Ancester">
+    <configuration name="Least_Common_Ancester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Least_Common_Ancester" />
+      <module name="Tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Max_Path_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Max_Path_Sum" />
       <module name="Tree" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,19 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree_Asgn.Ques_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree_Asgn.Ques_5" />
-      <module name="Assignments_of_PW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree_Asgn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unique_Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mock_Test.Unique_Char" />
       <module name="Assignments_of_PW" />
@@ -116,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Least_Common_Ancester" />
+        <item itemvalue="Application.Max_Path_Sum" />
         <item itemvalue="Application.Unique_Char" />
         <item itemvalue="Application.Move_Zeros" />
         <item itemvalue="Application.Ques_3" />
-        <item itemvalue="Application.Level_Order_Traverse" />
-        <item itemvalue="Application.Tree_Asgn.Ques_5" />
       </list>
     </recent_temporary>
   </component>
